@@ -37,21 +37,6 @@ A comprehensive, powerful, and intelligent automation solution for the **PokéMe
 * ⏱️ **Human-like Delays:** Features a randomized delay generator between commands to simulate natural human typing patterns.
 * 🛌 **Short Break Cycles:** Automatically triggers short rest periods after extended activity to bypass behavioral bot-detection systems.
 * 🕵️ **Status Management:** Dynamically manages Discord status to make the account appear active and natural.
-
----
-
-
-## 📂 Project Structure
-```text
-├── 📂 assets/
-│   ├── 📄 best.pt           
-|
-└── 📄 config.js
-└── 📄 MyPokeBot.exe
-└── 📄 Orther file json
-##⚠️ Disclaimer
-Using automation scripts (self-bots) on Discord may violate their Terms of Service and the PokéMeow bot's rules.No bot is safe so use at your own risk.
-
 ## 💎 Pricing & Trial Plan
 
 We offer a flexible pricing model and a risk-free trial to ensure the best experience:
@@ -68,4 +53,19 @@ Ready to become a PokéMeow Master? Join our community or contact the developer 
 
 * 💬 **Discord ID:** `[ledkdl766]`
 * 🌐 **Discord Server:** [(https://discord.gg/Qyy27Dcp)]
+---
+##⚠️ Disclaimer
+Using automation scripts (self-bots) on Discord may violate their Terms of Service and the PokéMeow bot's rules.No bot is safe so use at your own risk.
+---
+## 📂 Project Structure
+```text
+├── 📂 assets/
+│   ├── 📄 best.pt           
+|
+└── 📄 config.js
+└── 📄 MyPokeBot.exe
+└── 📄 Orther file json
+
+
+
 
