@@ -1,9 +1,6 @@
 # 🎮 PokéMeow Automation Pro 🚀
 
-[![Language](https://img.shields.io/badge/Language-Python%20%2F%20Golang-blue.svg)]() 
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
-[![Safety](https://img.shields.io/badge/Anti--Ban-Enabled-orange.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
 
 A comprehensive, powerful, and intelligent automation solution for the **PokéMeow** Discord bot. This tool is designed to optimize grinding, manage resources, and hunt rare Pokémon 24/7 with human-like precision.
 
@@ -20,11 +17,10 @@ A comprehensive, powerful, and intelligent automation solution for the **PokéMe
 ### 🧠 AI & Captcha Solver
 * 👁️ **YOLO-based Detection:** Integrated Object Detection model to solve PokéMeow's image captchas with high accuracy.
 * 🔄 **Auto-Resume:** Automatically resumes activities immediately after a successful captcha solve without manual intervention.
-* 🔔 **Webhook Alerts:** Instant notifications via Discord/Telegram for captchas or special events (Catching a Shiny/Legendary).
 
 ### 📦 Resource & Inventory Management
 * 🎁 **Auto Lootbox:** Automatically opens all types of supply crates (Common, Uncommon, Rare, etc.) upon receipt.
-* 🌿 **Grass Berry Automation:** Schedules and uses Grass Berries to boost encounter rates for rare Pokémon.
+* 🌿 **Auto Grass Berry:** Schedules and uses Grass Berries to boost encounter rates for rare Pokémon.
 * 🧪 **Research Exchange:** Monitors and automates item exchanges within the Research system to maximize resource efficiency.
 * 🥚 **Auto Egg Hatching:** Tracks hatching progress and replaces hatched eggs with new ones instantly.
 
@@ -47,11 +43,29 @@ A comprehensive, powerful, and intelligent automation solution for the **PokéMe
 
 ## 📂 Project Structure
 ```text
-├── 📂 src
-│   ├── 📄 main.py          # Main execution script
-│   ├── 📄 captcha.py       # AI YOLO processing module
-│   └── 📄 logic.py         # Command queue management
-├── 📂 config
-│   └── 📄 settings.json    # Ball config, delays, etc.
-└── 📄 requirements.txt     # Necessary libraries & dependencies
+├── 📂 assets/
+│   ├── 📄 best.pt           
+|
+└── 📄 config.js
+└── 📄 MyPokeBot.exe
+└── 📄 Orther file json
+##⚠️ Disclaimer
+Using automation scripts (self-bots) on Discord may violate their Terms of Service and the PokéMeow bot's rules.No bot is safe so use at your own risk.
+
+## 💎 Pricing & Trial Plan
+
+We offer a flexible pricing model and a risk-free trial to ensure the best experience:
+
+* 🆓 **5-Day Free Trial:** Contact us on Discord to receive your trial key and experience the full power of the bot.
+* 💳 **Monthly Subscription:** Only **$5 / month** for unlimited access to all features and 24/7 AI Captcha solving.
+* 🎁 **Referral Program:** Refer a friend! For every successful purchase through your referral, you will receive **1 Month FREE** added to your subscription.
+
+---
+
+## 📞 Get Started & Contact
+
+Ready to become a PokéMeow Master? Join our community or contact the developer directly for keys:
+
+* 💬 **Discord ID:** `[ledkdl766]`
+* 🌐 **Discord Server:** [(https://discord.gg/Qyy27Dcp)]
 
