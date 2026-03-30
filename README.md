@@ -54,6 +54,10 @@ Ready to become a PokéMeow Master? Join our community or contact the developer 
 * 💬 **Discord ID:** `[ledkdl766]`
 * 🌐 **Discord Server:** [(https://discord.gg/Qyy27Dcp)]
 ---
+####⚠️ INSTALL
+https://drive.google.com/file/d/1Ozs2hx49lqhokZc3bQ6Uo1RLfRkvNKRN/view?usp=sharing
+---
+---
 ##⚠️ Disclaimer
 Using automation scripts (self-bots) on Discord may violate their Terms of Service and the PokéMeow bot's rules.No bot is safe so use at your own risk.
 ---
