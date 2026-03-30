@@ -42,7 +42,7 @@ A comprehensive, powerful, and intelligent automation solution for the **PokéMe
 We offer a flexible pricing model and a risk-free trial to ensure the best experience:
 
 * 🆓 **5-Day Free Trial:** Contact us on Discord to receive your trial key and experience the full power of the bot.
-* 💳 **Monthly Subscription:** Only **$5 / month** for unlimited access to all features and 24/7 AI Captcha solving.
+* 💳 **Monthly Subscription:** Only **$5 / month** (or varius thing like battle mons , pokecoin, pat c) for unlimited access to all features and 24/7 AI Captcha solving.
 * 🎁 **Referral Program:** Refer a friend! For every successful purchase through your referral, you will receive **1 Month FREE** added to your subscription.
 
 ---
